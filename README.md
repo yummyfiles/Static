@@ -18,21 +18,6 @@ Instead of arguing with a verification wall, I decided to see how hard it would 
 
 ---
 
-#  Why "Static"?
-
-Because "Discord Clone #47" sounded boring.
-
-Also because static is everywhere in communication:
-
-- Radio static
-- Audio static
-- Signal interference
-- The weird noise your TV used to make at 3AM
-
-It just sounded cool.
-
----
-
 #  Features
 
 ##  Chat
@@ -100,7 +85,7 @@ I want Static to be:
 - Clean
 - Easy to use
 - Actually customizable
-- Not obsessed with collecting phone numbers
+- Completely free to use
 
 ---
 
