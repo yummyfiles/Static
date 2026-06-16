@@ -1,1 +1,1 @@
-# Static---Open-source-Discord-clone
+# Static - Open source Discord clone
