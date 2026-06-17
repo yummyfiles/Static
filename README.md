@@ -1,6 +1,10 @@
 <div align="center">
 
-#  Static
+<img src="Readmebanner.png" alt="Static Banner" width="100%" />
+
+<br/>
+
+# Static
 
 ### Discord locked me behind a phone verification wall, so I made my own.
 
@@ -8,7 +12,7 @@
 
 ---
 
-#  What is Static?
+# What is Static?
 
 Static is a Discord-inspired chat platform built because I got tired of getting locked out of features behind phone verification requirements.
 
@@ -18,9 +22,9 @@ Instead of arguing with a verification wall, I decided to see how hard it would 
 
 ---
 
-#  Features
+# Features
 
-##  Chat
+## Chat
 
 - Real-time messaging
 - Direct messages
@@ -32,7 +36,7 @@ Instead of arguing with a verification wall, I decided to see how hard it would 
 - File sharing
 - Typing indicators
 
-##  Servers
+## Servers
 
 - Create servers
 - Channels
@@ -41,14 +45,14 @@ Instead of arguing with a verification wall, I decided to see how hard it would 
 - Permissions
 - Server customization
 
-##  Voice
+## Voice
 
 - Voice channels
 - Screen sharing
 - Video calls *(planned)*
 - Push-to-talk
 
-##  Customization
+## Customization
 
 - Dark mode
 - Light mode
@@ -59,7 +63,7 @@ Instead of arguing with a verification wall, I decided to see how hard it would 
 
 ---
 
-#  Current Status
+# Current Status
 
 Static is currently in development.
 
@@ -77,7 +81,7 @@ That's software development.
 
 ---
 
-#  Goals
+# Goals
 
 I want Static to be:
 
@@ -89,7 +93,7 @@ I want Static to be:
 
 ---
 
-#  Known Issues
+# Known Issues
 
 Bugs exist.
 
@@ -99,7 +103,7 @@ The bug you find will somehow not happen on my machine.
 
 ---
 
-#  Contributing
+# Contributing
 
 Found a bug?
 
@@ -113,7 +117,7 @@ Feel free to open issues, suggest features, or contribute code.
 
 ---
 
-#  License
+# License
 
 MIT License.
 
@@ -125,7 +129,7 @@ Just don't claim you built the entire thing while I was suffering through debugg
 
 <div align="center">
 
-###  Static
+### Static
 
 *"Built out of spite and mild annoyance."*
 
