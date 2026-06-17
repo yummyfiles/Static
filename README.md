@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Readmebanner.png" alt="Static Banner" width="100%" />
+<img src="Readmebanner" alt="Static Banner" width="100%" />
 
 <br/>
 
