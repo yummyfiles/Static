@@ -4,7 +4,7 @@
 
 <br/>
 
-# Static
+
 
 ### Discord locked me behind a phone verification wall, so I made my own.
 
