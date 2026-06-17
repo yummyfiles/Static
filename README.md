@@ -101,10 +101,6 @@ Probably more bugs than I know about.
 
 The bug you find will somehow not happen on my machine.
 
----
-
-# Contributing
-
 Found a bug?
 
 Cool.
